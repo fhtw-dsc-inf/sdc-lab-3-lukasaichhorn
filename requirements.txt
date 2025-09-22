@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+bash_kernel
+jupyter
+#python -m bash_kernel.install
