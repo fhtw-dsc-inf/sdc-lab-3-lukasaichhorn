@@ -14,5 +14,5 @@
 			]
 		}
 	},
-	"updateContentCommand":"python3 -m pip install -r requirements.txt ; python3 -m bash_kernel.install"
+	"updateContentCommand":"python3 -m pip install -r requirements.txt"
 }
